@@ -10,7 +10,7 @@ tags:
 header:
   teaser: /assets/image/thumbnail/2022NeurIPS_thumbnail.jpg
 conference: NeurIPS (Neural Information Processing Systems)
-authors: <u>Daesol Cho*, Dongseok Shim*</u> and H. Jin Kim
+authors: <u>Daesol Cho*</u>, Dongseok Shim* and H. Jin Kim
 links:
  - paper: 
    link: https://arxiv.org/pdf/2209.15256.pdf

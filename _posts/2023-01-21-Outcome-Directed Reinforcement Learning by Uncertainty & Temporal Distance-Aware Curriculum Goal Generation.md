@@ -10,7 +10,7 @@ tags:
 header:
   teaser: /assets/image/thumbnail/2023ICLR_thumbnail.jpg
 conference: ICLR (International Conference on Learning Representations)
-authors: <u>Daesol Cho*, Seungjae Lee*</u> and H. Jin Kim
+authors: <u>Daesol Cho*</u>, Seungjae Lee* and H. Jin Kim
 links:
  - paper: 
    link: https://openreview.net/pdf?id=v69itrHLEu

@@ -11,7 +11,7 @@ tags:
 header:
   teaser: /assets/image/thumbnail/2022RA-L_Automating_thumbnail.jpg
 conference: RA-L (IEEE Robotics and Automation Letters)
-authors: <u>Jigang Kim, J. hyeon Park, Daesol Cho</u> and H. Jin Kim
+authors: Jigang Kim, J. hyeon Park, <u>Daesol Cho</u> and H. Jin Kim
 links:
  - paper: 
    link: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9770380
