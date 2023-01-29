@@ -7,7 +7,7 @@ categories:
 tags:
  - autonomous RL
  - non-episodic
-#  - transfer learning
+
 header:
   teaser: /assets/image/thumbnail/2022RA-L_Automating_thumbnail.png
 conference: RA-L (IEEE Robotics and Automation Letters)
