@@ -9,7 +9,7 @@ tags:
  - non-episodic
 
 header:
-  teaser: /assets/image/thumbnail/2022RA-L_Automating_thumbnail.png
+  teaser: /assets/image/thumbnail/2022RA-L_Automating_thumbnail.jpg
 conference: RA-L (IEEE Robotics and Automation Letters)
 authors: <u>Jigang Kim, J. hyeon Park, Daesol Cho</u> and H. Jin Kim
 links:

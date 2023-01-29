@@ -8,7 +8,7 @@ tags:
  - image synthesis
  - data augmentation
 header:
-  teaser: /assets/image/thumbnail/2022NeurIPS_thumbnail.png
+  teaser: /assets/image/thumbnail/2022NeurIPS_thumbnail.jpg
 conference: NeurIPS (Neural Information Processing Systems)
 authors: <u>Daesol Cho*, Dongseok Shim*</u> and H. Jin Kim
 links:
