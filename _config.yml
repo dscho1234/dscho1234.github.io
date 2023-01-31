@@ -96,13 +96,13 @@ analytics:
 author:
   name             : "Daesol Cho"
   avatar           : "/assets/image/thumbnail/profile.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Ph.D. student in Mechanical & Aerospace Engineering in SNU."
+  bio              : "&bull; Ph.D. student in Mechanical & Aerospace Engineering, SNU <br> &bull; Artificial Intelligence Institute of Seoul National University (AIIS)"
   location         : "Seoul, South Korea"
   # email            : "chodaesol@gmail.com"
   links:
     - label: "Curriculum Vitae"
       icon: "fas fa-fw fa-file-pdf"
-      # url: "/assets/download/sangillee_cv.pdf"
+      url: "/assets/download/daesolcho_CV.pdf"
     - label: "Email"
       icon: "fas fa-fw fa-envelope"
       url: "mailto:chodaesol@gmail.com"

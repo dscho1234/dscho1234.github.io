@@ -13,7 +13,7 @@ conference: ICLR (International Conference on Learning Representations)
 authors: <u>Daesol Cho*</u>, Seungjae Lee* and H. Jin Kim
 links:
  - paper: 
-   link: https://openreview.net/pdf?id=v69itrHLEu
+   link: https://arxiv.org/abs/2301.11741
    name: "Paper"
 
 ---
