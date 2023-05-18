@@ -8,13 +8,13 @@ tags:
  - Non-episodic RL
  - curriculum RL
 header:
-  # teaser: /assets/image/thumbnail/2023ICLR_thumbnail.jpg
+  teaser: /assets/image/thumbnail/2023ICML_thumbnail.jpg
 conference: ICML (International Conference on Machine Learning)
 authors: Jigang Kim*, <u>Daesol Cho*</u> and H. Jin Kim
 links:
  - paper: 
-  #  link: https://arxiv.org/abs/2301.11741
-  #  name: "Paper"
+   link: https://arxiv.org/abs/2305.09943
+   name: "Paper"
 
 ---
 
