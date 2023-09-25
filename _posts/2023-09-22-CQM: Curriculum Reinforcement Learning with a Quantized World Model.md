@@ -1,0 +1,21 @@
+---
+title: "[NeurIPS 2023] CQM: Curriculum Reinforcement Learning with a Quantized World Model"
+categories:
+ - Research
+ - Conference
+tags:
+ - curriculum RL
+ - Vector Quantized-VAE
+header:
+  teaser: /assets/image/thumbnail/2023NeurIPS_thumbnail_cqm.png
+conference: NeurIPS (Neural Information Processing Systems)
+authors: Seungjae Lee, <u>Daesol Cho</u>, Jonghae Park and H. Jin Kim
+links:
+ - paper: 
+   link: 
+   name: "Paper"
+
+---
+
+
+**Abstract:** Recent curriculum Reinforcement Learning (RL) has shown notable progress in solving complex tasks by proposing sequences of surrogate tasks. However, the previous approaches often face challenges when they generate curriculum goals in a high-dimensional space. Thus, they usually rely on manually specified goal spaces. To alleviate this limitation and improve the scalability of the curriculum, we propose a novel curriculum method that automatically defines the semantic goal space which contains vital information for the curriculum process, and suggests curriculum goals over it. To define the semantic goal space, our method discretizes continuous observations via vector quantized-variational autoencoders (VQ-VAE) and restores the temporal relations between the discretized observations by a graph. Concurrently, ours suggests uncertainty and temporal distance-aware curriculum goals that converges to the final goals over the automatically composed goal space. We demonstrate that the proposed method allows efficient explorations in an uninformed environment with raw goal examples only. Also, ours outperforms the state-of-the-art curriculum RL methods on data efficiency and performance, in various goal-reaching tasks even with ego-centric visual inputs.
