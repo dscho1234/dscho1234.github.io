@@ -12,7 +12,7 @@ conference: NeurIPS (Neural Information Processing Systems)
 authors: Seungjae Lee, <u>Daesol Cho</u>, Jonghae Park and H. Jin Kim
 links:
  - paper: 
-   link: 
+   link: "https://arxiv.org/abs/2310.17330"
    name: "Paper"
 
 ---

@@ -13,7 +13,7 @@ conference: NeurIPS (Neural Information Processing Systems)
 authors: <u>Daesol Cho</u>, Seungjae Lee and H. Jin Kim
 links:
  - paper: 
-   link: 
+   link: "https://arxiv.org/abs/2310.19261"
    name: "Paper"
 
 ---
