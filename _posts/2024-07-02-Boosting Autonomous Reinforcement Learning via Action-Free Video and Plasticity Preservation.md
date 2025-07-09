@@ -16,7 +16,7 @@ conference: RSS (Robotics Science and Systems)
 authors: <u>Daesol Cho</u>, Jigang Kim and H. Jin Kim
 links:
  - paper: 
-   link: 
+   link: "https://openreview.net/forum?id=lxMWarXN12&referrer=%5Bthe%20profile%20of%20Daesol%20Cho%5D(%2Fprofile%3Fid%3D~Daesol_Cho1)"
    name: "Paper"
 
 ---

@@ -1,5 +1,5 @@
 ---
-title: "[RSS 2024 workshop] Temporal Action Representation Learning for Aerial Maneuvering and Resource-Aware Decision-Making"
+title: "[RSS 2025 workshop] Temporal Action Representation Learning for Aerial Maneuvering and Resource-Aware Decision-Making"
 categories:
  - Research
  - Conference
