@@ -97,7 +97,7 @@ author:
   name             : "Daesol Cho"
   avatar           : "/assets/image/thumbnail/profile.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "&bull; Postdoctoral Researcher in Georgia Institue of Technology" # <br> &bull; "
-  location         : "Seoul, South Korea"
+  location         : "Atlanta, USA"
   # email            : "chodaesol@gmail.com"
   links:
     - label: "Curriculum Vitae"
