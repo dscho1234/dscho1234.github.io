@@ -10,7 +10,7 @@ tags:
  
 
 header:
-  teaser: /assets/image/thumbnail/2025CoRL_USR_thumbnail.pdf
+  teaser: /assets/image/thumbnail/2025CoRL_USR_thumbnail.jpg
 conference: CoRL (International Conference on Robot Learning)
 authors: Jusuk Lee, <u>Daesol Cho</u>, Jonghun Shin, Jonghae Park, Taekbeom Lee, and H. Jin Kim
 links:

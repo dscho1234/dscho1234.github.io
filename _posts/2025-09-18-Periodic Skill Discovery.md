@@ -7,7 +7,7 @@ tags:
  - Skill Discovery
  - Unsupervised RL
 header:
-  teaser: /assets/image/thumbnail/2025NeurIPS_PSD_thumbnail.pdf
+  teaser: /assets/image/thumbnail/2025NeurIPS_PSD_thumbnail.jpg
 conference: NeurIPS (Neural Information Processing Systems)
 authors: Jonghae Park, <u>Daesol Cho*</u>, Jusuk Lee, Dongseok Shim, Inkyu Jang, and H. Jin Kim
 links:
