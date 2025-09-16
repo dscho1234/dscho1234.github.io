@@ -12,11 +12,8 @@ conference: NeurIPS (Neural Information Processing Systems)
 authors: Jonghae Park, <u>Daesol Cho*</u>, Jusuk Lee, Dongseok Shim, Inkyu Jang, and H. Jin Kim
 links:
  - paper: 
-   link: 
-   name: "Paper"
- - page:
    link: https://jonghaepark.github.io/psd
-   name: "Page"
+   name: "Paper"
 ---
 
 
