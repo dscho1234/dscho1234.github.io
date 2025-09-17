@@ -9,10 +9,10 @@ tags:
 header:
   teaser: /assets/image/thumbnail/2025NeurIPS_PSD_thumbnail.jpg
 conference: NeurIPS (Neural Information Processing Systems)
-authors: Jonghae Park, <u>Daesol Cho*</u>, Jusuk Lee, Dongseok Shim, Inkyu Jang, and H. Jin Kim
+authors: Jonghae Park, <u>Daesol Cho</u>, Jusuk Lee, Dongseok Shim, Inkyu Jang, and H. Jin Kim
 links:
  - paper: 
-   link: # https://jonghaepark.github.io/psd
+   link:
    name: "Paper"
 ---
 
