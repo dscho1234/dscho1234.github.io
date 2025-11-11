@@ -14,7 +14,7 @@ header:
 conference: RA-L (IEEE Robotics and Automation Letters)
 authors: <u>Daesol Cho*</u>, Seungyeon Yoo*, Dongseok Shim, and H. Jin Kim
 links:
- - paper: 
+ - paper: https://sincro-ral.github.io
    link: 
    name: "Paper"
 

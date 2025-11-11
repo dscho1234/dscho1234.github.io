@@ -13,7 +13,7 @@ header:
 conference: IROS (International Conference on Intelligent Robots and Systems)
 authors: Gawon Lee, <u>Daesol Cho</u>, and H. Jin Kim
 links:
- - paper: 
+ - paper: https://arxiv.org/pdf/2509.20766
    link: 
    name: "Paper"
 
