@@ -1,5 +1,5 @@
 ---
-title: "[RA-L 2025] Single-View 3D-Aware Representations for Reinforcement Learning by Cross-View Neural Radiance Fields"
+title: "[RA-L 2025, ICRA 2026] Single-View 3D-Aware Representations for Reinforcement Learning by Cross-View Neural Radiance Fields"
 categories:
  - Research
  - Conference
