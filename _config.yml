@@ -95,7 +95,7 @@ analytics:
 # Site Author
 author:
   name             : "Daesol Cho"
-  avatar           : "/assets/image/thumbnail/profile.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/image/thumbnail/profile_v3.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "&bull; Postdoctoral Researcher in Georgia Institue of Technology" # <br> &bull; "
   location         : "Atlanta, USA"
   # email            : "chodaesol@gmail.com"
