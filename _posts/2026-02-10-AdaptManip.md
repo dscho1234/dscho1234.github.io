@@ -12,7 +12,7 @@ conference: RA-L (IEEE Robotics and Automation Letters)
 authors: Morgan Byrd, DongHoon Baek, Kartik Garg, Hyunyoung Jung, <u>Daesol Cho</u>, Maks Sorokin, Robert Wright and Sehoon Ha
 links:
  - paper: 
-   link: 
+   link: https://arxiv.org/pdf/2602.14363
    name: "Paper"
 
 ---
