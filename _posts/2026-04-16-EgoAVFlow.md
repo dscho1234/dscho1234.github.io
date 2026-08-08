@@ -1,5 +1,5 @@
 ---
-title: "[RA-L submitted] EgoAVFlow: Robot Policy Learning with Active Vision from Human Egocentric Videos via 3D Flow"
+title: "[RA-L 2026] EgoAVFlow: Robot Policy Learning with Active Vision from Human Egocentric Videos via 3D Flow"
 categories:
  - Research
  - Conference
