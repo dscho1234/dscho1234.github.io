@@ -1,5 +1,5 @@
 ---
-title: "[RA-L submitted] AdaptManip: Learning Adaptive Whole-Body Object Lifting and Delivery with Online Recurrent State Estimation"
+title: "[ICRA submitted] AdaptManip: Learning Adaptive Whole-Body Object Lifting and Delivery with Online Recurrent State Estimation"
 categories:
  - Research
  - Conference
@@ -8,7 +8,7 @@ tags:
  - Reinforcement Learning
 header:
   teaser: /assets/image/thumbnail/2026RA-L_AdaptManip_thumbnail.png
-conference: RA-L (IEEE Robotics and Automation Letters)
+conference: ICRA (International Conference on Robotics & Automation)
 authors: Morgan Byrd, DongHoon Baek, Kartik Garg, Hyunyoung Jung, <u>Daesol Cho</u>, Maks Sorokin, Robert Wright and Sehoon Ha
 links:
  - paper: 
