@@ -1,5 +1,5 @@
 ---
-title: "[ICRA submitted] AdaptManip: Learning Adaptive Whole-Body Object Lifting and Delivery with Online Recurrent State Estimation"
+title: "[ICRA 2026 submitted] AdaptManip: Learning Adaptive Whole-Body Object Lifting and Delivery with Online Recurrent State Estimation"
 categories:
  - Research
  - Conference
